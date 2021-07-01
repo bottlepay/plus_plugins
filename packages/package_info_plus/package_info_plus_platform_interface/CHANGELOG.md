@@ -1,3 +1,6 @@
+# 2.0.0
+- Add buildSignature to PackageInfoData.
+
 ## 1.0.1
 
 - Improve documentation

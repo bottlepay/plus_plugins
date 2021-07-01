@@ -46,6 +46,7 @@ void main() {
             'buildNumber': '1',
             'packageName': 'io.flutter.plugins.packageinfoexample',
             'version': '1.0',
+            'buildSignature': 'deadbeef',
           };
         default:
           assert(false);
